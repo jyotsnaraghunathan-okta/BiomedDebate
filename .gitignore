@@ -1,0 +1,21 @@
+logs
+*.log
+npm-debug.log*
+node_modules
+dist
+dist-ssr
+*.local
+
+.env
+.env.*
+!.env.example
+
+# Source PDFs (copyrighted books and practice tests, not for redistribution)
+*.pdf
+/test1/
+/test2/
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store

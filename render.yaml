@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: biomedical-debate
+    env: static
+    buildCommand: npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: VITE_OKTA_ISSUER
+        sync: false
+      - key: VITE_OKTA_CLIENT_ID
+        sync: false
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

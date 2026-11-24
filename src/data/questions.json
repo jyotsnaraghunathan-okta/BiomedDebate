@@ -1,0 +1,3030 @@
+{
+ "set1": {
+  "id": "set1",
+  "title": "Set 1",
+  "book": "levy",
+  "questions": [
+   {
+    "id": "set1-1",
+    "n": 1,
+    "stem": "The Japanese national holiday Keiro No Hi, which Levy observed while living in Tokyo, translates to what?",
+    "options": [
+     "Festival of Longevity",
+     "Grandparents' Harvest Day",
+     "Respect for the Aged Day",
+     "Day of the Ancestors"
+    ],
+    "answer": 2,
+    "page": "3",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-2",
+    "n": 2,
+    "stem": "According to the study Levy cites, older Japanese men, who are treated \"like rock stars in their country,\" were found to have higher levels of what compared with their European counterparts?",
+    "options": [
+     "Testosterone",
+     "C-reactive protein",
+     "Cortisol",
+     "Estrogen"
+    ],
+    "answer": 0,
+    "page": "4",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-3",
+    "n": 3,
+    "stem": "In Levy's study of residents of Oxford, Ohio, what was the single most important factor in determining longevity?",
+    "options": [
+     "Income",
+     "How people thought about and approached the idea of old age",
+     "Loneliness",
+     "Functional health"
+    ],
+    "answer": 1,
+    "page": "8",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-4",
+    "n": 4,
+    "stem": "Levy notes that for the first time in human history, there are more people in the world over the age of sixty-four than under what age?",
+    "options": [
+     "Eighteen",
+     "One",
+     "Ten",
+     "Five"
+    ],
+    "answer": 3,
+    "page": "6",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-5",
+    "n": 5,
+    "stem": "What is the name of the framework Levy developed to explain how culture-based age stereotypes \"get under our skin\" and affect health?",
+    "options": [
+     "Social expectation theory",
+     "Stereotype threat theory",
+     "Stereotype embodiment theory (SET)",
+     "Self-efficacy theory"
+    ],
+    "answer": 2,
+    "page": "15",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-6",
+    "n": 6,
+    "stem": "Which of the following is NOT one of the four mechanisms of stereotype embodiment theory?",
+    "options": [
+     "Age stereotypes operate unconsciously",
+     "Age stereotypes increase in power as they become more self-relevant",
+     "Age stereotypes are internalized from society starting in childhood",
+     "Age stereotypes are inherited genetically from one's parents"
+    ],
+    "answer": 3,
+    "page": "16",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-7",
+    "n": 7,
+    "stem": "According to Levy, infants as young as what age distinguish and sort faces by age?",
+    "options": [
+     "One year",
+     "Two weeks",
+     "Three years",
+     "Four months"
+    ],
+    "answer": 3,
+    "page": "16",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-8",
+    "n": 8,
+    "stem": "Through the biological pathway, Levy's team found that negative age beliefs can increase which two biological markers of stress?",
+    "options": [
+     "Cholesterol and triglycerides",
+     "Insulin and blood glucose",
+     "Cortisol and C-reactive protein (CRP)",
+     "Adrenaline and serotonin"
+    ],
+    "answer": 2,
+    "page": "19",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-9",
+    "n": 9,
+    "stem": "According to Levy, approximately what percentage of our health is due to genes?",
+    "options": [
+     "25 percent",
+     "10 percent",
+     "75 percent",
+     "50 percent"
+    ],
+    "answer": 0,
+    "page": "24",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-10",
+    "n": 10,
+    "stem": "When Levy asked people in China to name the first words or phrases that came to mind to describe an old person, what was the most common response?",
+    "options": [
+     "Family",
+     "Frailty",
+     "Memory loss",
+     "Wisdom"
+    ],
+    "answer": 3,
+    "page": "22",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-11",
+    "n": 11,
+    "stem": "In what year did the term \"senior moment\" first appear in print?",
+    "options": [
+     "1982",
+     "1967",
+     "1997",
+     "2005"
+    ],
+    "answer": 2,
+    "page": "25",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-12",
+    "n": 12,
+    "stem": "According to Levy, which type of memory, such as recalling the possible colors of an apple, tends to improve in later life?",
+    "options": [
+     "Procedural memory",
+     "Semantic memory",
+     "Working memory",
+     "Episodic memory"
+    ],
+    "answer": 1,
+    "page": "26",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-13",
+    "n": 13,
+    "stem": "In Levy's cross-cultural memory study, which group of older participants held the most-positive age beliefs and performed best across all memory tasks?",
+    "options": [
+     "Mainland Chinese",
+     "Japanese",
+     "American hearing",
+     "American Deaf"
+    ],
+    "answer": 0,
+    "page": "30",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-14",
+    "n": 14,
+    "stem": "What sixty-thousand-word epic poem did retired actor John Basinger memorize, beginning when he was close to sixty?",
+    "options": [
+     "The Divine Comedy",
+     "Paradise Lost",
+     "Beowulf",
+     "The Iliad"
+    ],
+    "answer": 1,
+    "page": "31",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-15",
+    "n": 15,
+    "stem": "Using data from the Baltimore Longitudinal Study of Aging, Levy found that people who held positive age beliefs at the outset had how much better memory scores in old age than peers with negative age beliefs?",
+    "options": [
+     "75 percent",
+     "10 percent",
+     "50 percent",
+     "30 percent"
+    ],
+    "answer": 3,
+    "page": "37",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-16",
+    "n": 16,
+    "stem": "Neuroscientist Daniel Levitin says that \"you want a 70-year-old radiologist reading [your x-ray], not a 30- year-old one\" because which ability improves past age sixty?",
+    "options": [
+     "Visual acuity",
+     "Reaction time",
+     "Pattern recognition",
+     "Fine motor control"
+    ],
+    "answer": 2,
+    "page": "38",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-17",
+    "n": 17,
+    "stem": "Songlines, through which elders preserve and pass down knowledge of plants, animals, and maps of the land, belong to which culture?",
+    "options": [
+     "Maori",
+     "Inuit",
+     "Navajo",
+     "Indigenous Australian"
+    ],
+    "answer": 3,
+    "page": "43",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-18",
+    "n": 18,
+    "stem": "Sister Madonna Buder, who has completed over 350 triathlons since 1982, is known by what nickname?",
+    "options": [
+     "The Iron Nun",
+     "The Triathlon Saint",
+     "The Flying Sister",
+     "The Marathon Monk"
+    ],
+    "answer": 0,
+    "page": "44",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-19",
+    "n": 19,
+    "stem": "In Levy's month-long subliminal priming study, the physical improvement of participants exposed to positive age beliefs was similar to what?",
+    "options": [
+     "One week of daily physical therapy",
+     "Three months of strength training twice a week",
+     "Two years of weekly yoga classes",
+     "Six months of exercising four times a week"
+    ],
+    "answer": 3,
+    "page": "49",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-20",
+    "n": 20,
+    "stem": "When geriatrician Tom Gill surveyed older participants at monthly intervals, what percentage showed a complete recovery within one year of their initial disability episode?",
+    "options": [
+     "57 percent",
+     "81 percent",
+     "44 percent",
+     "21 percent"
+    ],
+    "answer": 1,
+    "page": "56",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-21",
+    "n": 21,
+    "stem": "In the New Haven study, participants holding positive age stereotypes had what greater likelihood of complete recovery from severe disability than those with negative age stereotypes?",
+    "options": [
+     "30 percent",
+     "44 percent",
+     "75 percent",
+     "15 percent"
+    ],
+    "answer": 1,
+    "page": "56",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-22",
+    "n": 22,
+    "stem": "In 1901, Dr. Alois Alzheimer began caring for which patient, whose autopsied brain revealed the amyloid plaques and neurofibrillary tangles of the disease that now bears his name?",
+    "options": [
+     "Auguste Deter",
+     "Gaylene Becker",
+     "Maurine Kornfeld",
+     "Amalia Freud"
+    ],
+    "answer": 0,
+    "page": "60",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-23",
+    "n": 23,
+    "stem": "According to the research Levy cites, dementia was found to be how many times more common in the US than in India?",
+    "options": [
+     "Five times",
+     "Ten times",
+     "Fifteen times",
+     "Two times"
+    ],
+    "answer": 0,
+    "page": "60",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-24",
+    "n": 24,
+    "stem": "Among participants carrying the APOE 4 gene, those with positive age beliefs were how much less likely to develop dementia than those with negative age beliefs?",
+    "options": [
+     "10 percent",
+     "80 percent",
+     "47 percent",
+     "25 percent"
+    ],
+    "answer": 2,
+    "page": "63",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-25",
+    "n": 25,
+    "stem": "In the Baltimore Longitudinal Study of Aging, the hippocampi of people with negative age beliefs shrank how much faster than those of people with positive age beliefs?",
+    "options": [
+     "Five times as fast",
+     "Three times as fast",
+     "Ten times as fast",
+     "Twice as fast"
+    ],
+    "answer": 1,
+    "page": "62",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-26",
+    "n": 26,
+    "stem": "Maggie Kuhn, who said \"Old age is an excellent time for outrage,\" founded which antiageism activist group?",
+    "options": [
+     "The Gray Panthers",
+     "Old Women's Project",
+     "The Silver Sirens",
+     "AARP"
+    ],
+    "answer": 0,
+    "page": "67",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-27",
+    "n": 27,
+    "stem": "Over a thirty-year period, older participants with negative age beliefs showed a 44 percent increase in which stress hormone, while those with positive age beliefs showed a 10 percent decline?",
+    "options": [
+     "Cortisol",
+     "Testosterone",
+     "Adrenaline",
+     "Melatonin"
+    ],
+    "answer": 0,
+    "page": "77",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-28",
+    "n": 28,
+    "stem": "Which founder of psychoanalysis discouraged therapists from treating older patients, arguing that people \"near or above the age of 50\" are \"no longer educable\"?",
+    "options": [
+     "Carl Jung",
+     "William James",
+     "Erik Erikson",
+     "Sigmund Freud"
+    ],
+    "answer": 3,
+    "page": "79",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-29",
+    "n": 29,
+    "stem": "What term describes therapists' low expectations for older patients' improvement?",
+    "options": [
+     "Therapeutic nihilism",
+     "Treatment futility",
+     "Diagnostic overshadowing",
+     "Clinical fatalism"
+    ],
+    "answer": 0,
+    "page": "80",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-30",
+    "n": 30,
+    "stem": "According to Levy, what percentage of mental health providers do not accept older patients who rely on Medicare?",
+    "options": [
+     "90 percent",
+     "12 percent",
+     "64 percent",
+     "33 percent"
+    ],
+    "answer": 2,
+    "page": "83",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-31",
+    "n": 31,
+    "stem": "Zimbabwean psychiatrist Dixon Chibanda's Friendship Bench program trains which group to provide talk therapy in their communities?",
+    "options": [
+     "Grandmothers",
+     "Religious leaders",
+     "Village chiefs",
+     "Medical students"
+    ],
+    "answer": 0,
+    "page": "88",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-32",
+    "n": 32,
+    "stem": "In the Ohio Longitudinal Study on Aging and Retirement, participants with the most-positive views of aging lived, on average, how much longer than those with the most-negative views?",
+    "options": [
+     "3 years",
+     "7.5 years",
+     "4 years",
+     "12 years"
+    ],
+    "answer": 1,
+    "page": "93",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-33",
+    "n": 33,
+    "stem": "Levy uses which animal as an analogy to show that environment can overcome genes, since individuals with identical genes can live five times longer depending on how they are treated and fed?",
+    "options": [
+     "Naked mole rats",
+     "Lab mice raised in enriched cages",
+     "Honeybees (queen versus worker bees)",
+     "Ants (queen versus soldier ants)"
+    ],
+    "answer": 2,
+    "page": "97",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-34",
+    "n": 34,
+    "stem": "Which Japanese term, similar to the French \"raison d'-tre,\" Levy offers as an expression of the will to live?",
+    "options": [
+     "Kaizen",
+     "Ikigai",
+     "Okina",
+     "Keiro"
+    ],
+    "answer": 1,
+    "page": "97",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-35",
+    "n": 35,
+    "stem": "Stanford's James Fries uses what term to describe the growing number of years free of illness as humans live longer?",
+    "options": [
+     "Longevity economy",
+     "Compression of morbidity",
+     "Silver tsunami",
+     "Demographic dividend"
+    ],
+    "answer": 1,
+    "page": "103",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-36",
+    "n": 36,
+    "stem": "In Levy's New Haven hearing study, older participants with the most-negative age beliefs had what greater hearing decline over the next three years than those with the most-positive age beliefs?",
+    "options": [
+     "25 percent",
+     "40 percent",
+     "5 percent",
+     "12 percent"
+    ],
+    "answer": 3,
+    "page": "113",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-37",
+    "n": 37,
+    "stem": "According to Levy, older musicians are how much better than nonmusicians at hearing speech in noisy environments?",
+    "options": [
+     "75 percent",
+     "20 percent",
+     "40 percent",
+     "10 percent"
+    ],
+    "answer": 2,
+    "page": "115",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-38",
+    "n": 38,
+    "stem": "The German term \"Alterstil,\" used by art historians and creativity researchers, refers to what?",
+    "options": [
+     "An art movement that celebrated youth",
+     "The decline in artistic quality that comes with age",
+     "An old-age style marked by changes in technique, affective tone, and subject matter",
+     "A painting technique developed by Michelangelo"
+    ],
+    "answer": 2,
+    "page": "121",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-39",
+    "n": 39,
+    "stem": "Who coined the term \"ageism\" in 1969 during an interview with reporter Carl Bernstein?",
+    "options": [
+     "Erik Erikson",
+     "Maggie Kuhn",
+     "Robert Butler",
+     "Luigi Ferrucci"
+    ],
+    "answer": 2,
+    "page": "130",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-40",
+    "n": 40,
+    "stem": "Using the Baltimore Longitudinal Study of Aging, Levy's team found that younger people who assimilated more-negative age stereotypes were how much more likely to have a heart attack or other cardiovascular event after turning sixty?",
+    "options": [
+     "Equally likely",
+     "Ten times as likely",
+     "Five times as likely",
+     "Twice as likely"
+    ],
+    "answer": 3,
+    "page": "138",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-41",
+    "n": 41,
+    "stem": "In a systematic review of how ageism impacts older persons' health, Levy's team found that in what percentage of studies on health-care access did providers discourage or deny older patients access to certain treatments?",
+    "options": [
+     "35 percent",
+     "50 percent",
+     "85 percent",
+     "15 percent"
+    ],
+    "answer": 2,
+    "page": "151",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-42",
+    "n": 42,
+    "stem": "Levy and her colleagues estimated that the health costs resulting from ageism in the US total how much per year?",
+    "options": [
+     "$500 billion",
+     "$63 billion",
+     "$1 trillion",
+     "$6.3 billion"
+    ],
+    "answer": 1,
+    "page": "151",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-43",
+    "n": 43,
+    "stem": "Which limitation of the Age Discrimination in Employment Act (ADEA) of 1967 does Levy point out?",
+    "options": [
+     "It applies only to government employees",
+     "It applies only to workers over the age of seventy-five",
+     "It allows unlimited punitive damages, which overwhelms the courts",
+     "It applies only to people who already have jobs, not to job seekers"
+    ],
+    "answer": 3,
+    "page": "148",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-44",
+    "n": 44,
+    "stem": "In Levy's ABC method for shifting to an age-thriving mindset, what do the letters A, B, and C stand for?",
+    "options": [
+     "Awareness, Blame, Challenge",
+     "Advocacy, Belief, Community",
+     "Attitude, Behavior, Cognition",
+     "Acceptance, Balance, Change"
+    ],
+    "answer": 0,
+    "page": "155",
+    "chapter": "ch9",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-45",
+    "n": 45,
+    "stem": "What term describes speaking to older people with simplified language, a singsong cadence, and a louder-than-normal voice?",
+    "options": [
+     "Age blindness",
+     "Elderspeak",
+     "Benevolent ageism",
+     "Infantile priming"
+    ],
+    "answer": 1,
+    "page": "156",
+    "chapter": "ch9",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-46",
+    "n": 46,
+    "stem": "The \"Scully effect,\" named after the fictional FBI scientist Dana Scully on The X-Files, illustrates what point Levy makes about role models?",
+    "options": [
+     "Positive role models can actually change behavior, such as girls who watched her being more likely to enter a scientific field",
+     "Older viewers identify more strongly with young characters than with old ones",
+     "Television viewers adopt negative age stereotypes from crime dramas",
+     "Fictional role models have no measurable effect on real behavior"
+    ],
+    "answer": 0,
+    "page": "156",
+    "chapter": "ch9",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-47",
+    "n": 47,
+    "stem": "Levy identifies three stages that could lead to the formation of an age liberation movement. What are they?",
+    "options": [
+     "Education, legislation, and enforcement",
+     "Collective identification, mobilization, and protest",
+     "Awareness, blame, and challenge",
+     "Recruitment, fundraising, and lobbying"
+    ],
+    "answer": 1,
+    "page": "176",
+    "chapter": "ch10",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-48",
+    "n": 48,
+    "stem": "Research by Damon Centola's team at the University of Pennsylvania suggests that social tipping points can occur when what percentage of the population decides it is time to change?",
+    "options": [
+     "75 percent",
+     "25 percent",
+     "10 percent",
+     "51 percent"
+    ],
+    "answer": 1,
+    "page": "190",
+    "chapter": "ch10",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-49",
+    "n": 49,
+    "stem": "At a United Nations working group, Levy learned that what percentage of older people in low- and middle-income countries reported they could not obtain needed health care because of their age?",
+    "options": [
+     "24 percent",
+     "6 percent",
+     "90 percent",
+     "60 percent"
+    ],
+    "answer": 3,
+    "page": "183",
+    "chapter": "ch10",
+    "type": "Recall"
+   },
+   {
+    "id": "set1-50",
+    "n": 50,
+    "stem": "In the Afterword, Levy describes a town where \"ageism does not exist,\" home to the Greensboro Ladies' Walking Society. Where is this town?",
+    "options": [
+     "Greensboro, Vermont",
+     "Spokane Valley, Washington",
+     "Oxford, Ohio",
+     "Middletown, Connecticut"
+    ],
+    "answer": 0,
+    "page": "191",
+    "chapter": "afterword",
+    "type": "Recall"
+   }
+  ]
+ },
+ "set1b": {
+  "id": "set1b",
+  "title": "Set 1B (Recall + Application)",
+  "book": "levy",
+  "questions": [
+   {
+    "id": "set1b-1",
+    "n": 1,
+    "stem": "After the grocery store owner told Grandma Horty that \"old people fall down all the time,\" how did her behavior change over the following days?",
+    "options": [
+     "She sued the store owner for negligence",
+     "She stopped trusting herself to drive and asked Levy to take her to a hair appointment",
+     "She moved into an assisted-living facility",
+     "She began a daily exercise program to prove him wrong"
+    ],
+    "answer": 1,
+    "page": "2",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-2",
+    "n": 2,
+    "stem": "A hospital gives physicians two identical case files that differ only in the patient's age (45 vs. 80). The physicians recommend aggressive treatment far more often for the 45-year-old. Based on Levy's discussion, this pattern is best described as what?",
+    "options": [
+     "Confirmation bias on the part of the patients",
+     "Sound clinical judgment, since the case files show different likelihoods of recovery",
+     "Structural and implicit age bias, since doctors are less likely to recommend treatment for older patients with identical symptoms and prognosis",
+     "Stereotype embodiment, since the doctors are internalizing beliefs about their own aging"
+    ],
+    "answer": 2,
+    "page": "12",
+    "chapter": "introduction",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-3",
+    "n": 3,
+    "stem": "When Levy pulled a muscle early in a 5K charity race, she instinctively blamed her age. What did her family point out was the real cause?",
+    "options": [
+     "She had a pre-existing knee injury",
+     "She had arrived late and skipped her warm-up",
+     "She was wearing the wrong running shoes",
+     "She had not trained for the race"
+    ],
+    "answer": 1,
+    "page": "13",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-4",
+    "n": 4,
+    "stem": "At age 25, Maria misplaces her car keys and thinks nothing of it. At age 75, the same lapse makes her worry she is becoming senile. Which mechanism of stereotype embodiment theory (SET) does this illustrate?",
+    "options": [
+     "Self-relevance: age stereotypes gain power as they come to apply to oneself",
+     "The biological pathway through stress hormones",
+     "Unconscious operation through subliminal priming",
+     "Internalization across the life span starting in childhood"
+    ],
+    "answer": 0,
+    "page": "17",
+    "chapter": "ch1",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-5",
+    "n": 5,
+    "stem": "A 72-year-old man stops taking his prescribed blood pressure medication and quits his walking routine because \"decline is inevitable at my age anyway.\" According to SET, which pathway is his negative age belief acting through?",
+    "options": [
+     "Biological pathway",
+     "Behavioral pathway",
+     "Psychological pathway",
+     "Genetic pathway"
+    ],
+    "answer": 1,
+    "page": "18",
+    "chapter": "ch1",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-6",
+    "n": 6,
+    "stem": "A woman writes to Levy, \"Frankly I feel ashamed to be old... because society tells me it is shameful.\" Her lowered self-esteem is an example of which SET pathway?",
+    "options": [
+     "Biological pathway",
+     "Structural pathway",
+     "Psychological pathway",
+     "Behavioral pathway"
+    ],
+    "answer": 2,
+    "page": "18",
+    "chapter": "ch1",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-7",
+    "n": 7,
+    "stem": "Carl Reiner and Mel Brooks expressed positive age beliefs decades before they were old through which famous comedy routine?",
+    "options": [
+     "\"If You're Not in the Obit, Eat Breakfast\"",
+     "\"The Golden Girls\"",
+     "\"The 2,000-Year-Old Man\"",
+     "\"Grumpy Old Men\""
+    ],
+    "answer": 2,
+    "page": "21",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-8",
+    "n": 8,
+    "stem": "Retired Apple engineer JK Scheinberg, who led the project that moved Apple's operating system to Intel, experienced ageism when he applied for what job?",
+    "options": [
+     "A part-time position at the Apple Store's Genius Bar",
+     "A consulting role at Google",
+     "Chief technology officer at a start-up",
+     "A teaching position at a community college"
+    ],
+    "answer": 0,
+    "page": "23",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-9",
+    "n": 9,
+    "stem": "Why does the American Deaf community tend to hold positive age beliefs, according to Levy?",
+    "options": [
+     "Over 90 percent of Deaf individuals are born to hearing parents, so young Deaf people form strong ties with older Deaf role models",
+     "Sign language has no words for negative age stereotypes",
+     "Deaf elders are required by tradition to lead community organizations",
+     "Deaf communities have no exposure to television of any kind"
+    ],
+    "answer": 0,
+    "page": "27",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-10",
+    "n": 10,
+    "stem": "A researcher wants to show that culture, not language, explains differences in older adults' memory. Following Levy's study design, why should she include BOTH Deaf American and mainland Chinese participants rather than just one of these groups?",
+    "options": [
+     "Both groups have identical diets, which controls for nutrition",
+     "Both groups have the same average age",
+     "Both groups speak the same language",
+     "Their only shared factor is positive age beliefs, which rules out alternative explanations such as signing or pictogram-based language"
+    ],
+    "answer": 3,
+    "page": "29",
+    "chapter": "ch2",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-11",
+    "n": 11,
+    "stem": "What memorization technique, learned from working with the National Theater for the Deaf, did John Basinger use to memorize Paradise Lost?",
+    "options": [
+     "Listening to recordings while sleeping",
+     "Associating each line with a musical note",
+     "Adding natural gestures to make the text physical and visual",
+     "Writing each line one hundred times"
+    ],
+    "answer": 2,
+    "page": "33",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-12",
+    "n": 12,
+    "stem": "Anthropologist Margaret Mead wrote that \"the continuity of all cultures depends on the living presence of\" what?",
+    "options": [
+     "A written history",
+     "A council of elders",
+     "A shared religion",
+     "At least three generations"
+    ],
+    "answer": 3,
+    "page": "43",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-13",
+    "n": 13,
+    "stem": "Wilhelmina Delco, who took up swimming at age eighty, had earlier made history in what way?",
+    "options": [
+     "She was the first woman to swim the English Channel",
+     "She was the oldest person to win an Olympic medal",
+     "She became the first Black person elected to public office in Austin, Texas",
+     "She founded the Gray Panthers' Texas chapter"
+    ],
+    "answer": 2,
+    "page": "50",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-14",
+    "n": 14,
+    "stem": "A critic argues that Levy's functional health finding is backwards: healthier people simply develop more positive age beliefs. How did Levy and statistician Marty Slade address this?",
+    "options": [
+     "They excluded all participants with any health problems",
+     "They conceded the critic's point and dropped the finding",
+     "They tested whether baseline functional health predicted later age beliefs (it did not) and compared participants with the same starting health scores",
+     "They relied only on participants' self-reports of health"
+    ],
+    "answer": 2,
+    "page": "46",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-15",
+    "n": 15,
+    "stem": "A senior center wants to use positive age priming to improve residents' walking and balance. Based on Levy's research, which design is most likely to produce lasting gains?",
+    "options": [
+     "One ten-minute session on the first day only",
+     "Repeated priming sessions at regular intervals (e.g., weekly for a month), since a single session's effect fades after about an hour",
+     "Daily sessions using random letters instead of age-related words",
+     "A single session that uses negative age words to motivate residents"
+    ],
+    "answer": 1,
+    "page": "47",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-16",
+    "n": 16,
+    "stem": "A researcher surveys older adults once a year and concludes that older people rarely recover from disability. Based on Tom Gill's work, what is the main flaw in this design?",
+    "options": [
+     "The survey should have included only people under seventy",
+     "Disability cannot be measured in older adults",
+     "Yearly surveys miss brief episodes of disability and recovery; monthly surveys showed most older people fully recover",
+     "Older adults cannot accurately report their own health"
+    ],
+    "answer": 2,
+    "page": "55",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-17",
+    "n": 17,
+    "stem": "Which Oscar-winning actor, in his seventies, recovered from a severe car crash and went on to star in dozens more films, including action movies featuring older heroes?",
+    "options": [
+     "Alan Arkin",
+     "Mel Brooks",
+     "Michael Caine",
+     "Morgan Freeman"
+    ],
+    "answer": 3,
+    "page": "57",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-18",
+    "n": 18,
+    "stem": "In a debate on allocating limited resources to \"patients with the greatest likelihood of long-term survival,\" a speaker assumes that older patients have poor recovery prospects. Which finding from Levy best challenges this assumption?",
+    "options": [
+     "Older adults with negative age beliefs exercise less",
+     "Older adults remember semantic information better than young adults",
+     "Most older people prefer not to be hospitalized",
+     "Older adults with positive age beliefs had a 44 percent greater likelihood of complete recovery from severe disability"
+    ],
+    "answer": 3,
+    "page": "56",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-19",
+    "n": 19,
+    "stem": "Amy, a retired bookkeeper born in Jamaica and enrolled in the A4 study, is notable for what reason?",
+    "options": [
+     "She was diagnosed with Alzheimer's but fully recovered",
+     "She has elevated amyloid plaque in her brain but no cognitive symptoms of Alzheimer's",
+     "She developed dementia despite positive age beliefs",
+     "She carries the protective APOE 2 gene"
+    ],
+    "answer": 1,
+    "page": "65",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-20",
+    "n": 20,
+    "stem": "Retired pediatrician Jonas recalls that his university had to do what when he retired, because of his accumulated knowledge and diagnostic ability?",
+    "options": [
+     "Hire two younger doctors to replace him",
+     "Name a teaching award after him",
+     "Rehire him as department chief",
+     "Close the pediatric clinic"
+    ],
+    "answer": 0,
+    "page": "68",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-21",
+    "n": 21,
+    "stem": "Two 70-year-olds both lack the protective APOE 2 gene. One holds positive age beliefs; the other holds negative ones. Based on Levy's findings, what can be predicted about the one with positive age beliefs?",
+    "options": [
+     "Their dementia risk is about the same as that of people born with APOE 2, so age beliefs act like a \"cultural 2 variant\"",
+     "Their dementia risk is the same as the person with negative age beliefs, because genes are destiny",
+     "They are guaranteed never to develop dementia",
+     "They will develop dementia faster because of higher stress"
+    ],
+    "answer": 0,
+    "page": "71",
+    "chapter": "ch4",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-22",
+    "n": 22,
+    "stem": "Why might positive age beliefs help a person with Alzheimer's biomarkers avoid clinical symptoms, according to Levy?",
+    "options": [
+     "Positive age beliefs change a person's APOE gene variant",
+     "Positive age beliefs dissolve amyloid plaques directly",
+     "Positive age beliefs make people avoid medical testing",
+     "Positive age beliefs buffer stress, and stress boosts brain inflammation that accelerates neurological disease"
+    ],
+    "answer": 3,
+    "page": "66",
+    "chapter": "ch4",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-23",
+    "n": 23,
+    "stem": "What anecdote about Freud's mother, Amalia, does Levy relate to suggest the source of Freud's negative age beliefs?",
+    "options": [
+     "She refused to let Freud treat any patients over fifty",
+     "At ninety she declined a beautiful shawl because it would \"make her look too old\"",
+     "She moved into a nursing home against her will",
+     "She hid her true age from her children her whole life"
+    ],
+    "answer": 1,
+    "page": "79",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-24",
+    "n": 24,
+    "stem": "When psychiatrist Dan Plotkin wanted to take on a seventy-three-year-old patient (\"JF\") for his psychoanalytic training, what happened?",
+    "options": [
+     "He was required to treat her only with medication",
+     "His supervisors rejected her because of her age, but he appealed, and she benefited greatly from therapy",
+     "She was transferred to a geriatric specialist",
+     "She refused therapy because she felt too old to change"
+    ],
+    "answer": 1,
+    "page": "80",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-25",
+    "n": 25,
+    "stem": "A 74-year-old patient presents with depression. Her doctor says it is \"a normal part of aging\" and prescribes medication only. Based on Levy's discussion, what would be the better approach?",
+    "options": [
+     "Accept the depression as normal aging and do nothing",
+     "Increase the medication dose instead of adding therapy",
+     "Refer her to a nursing home",
+     "Treat the depression as treatable and combine medication with talk therapy, which is more effective and cost-effective in the long term"
+    ],
+    "answer": 3,
+    "page": "82",
+    "chapter": "ch5",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-26",
+    "n": 26,
+    "stem": "A rural region has very few psychiatrists and no funding for new mental health workers. Applying Dixon Chibanda's model, what would be the most practical solution?",
+    "options": [
+     "Wait until enough psychiatrists can be recruited from cities",
+     "Require patients to travel to the nearest city hospital",
+     "Prescribe antidepressants to everyone who screens positive",
+     "Train older community members, such as grandmothers, to deliver structured talk therapy in the community"
+    ],
+    "answer": 3,
+    "page": "88",
+    "chapter": "ch5",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-27",
+    "n": 27,
+    "stem": "Which classic Ingmar Bergman film, about a 76-year-old physician who gains insight into his life, does Levy show her Health and Aging class (following Erik Erikson's example)?",
+    "options": [
+     "The Seventh Seal",
+     "Wild Strawberries",
+     "Persona",
+     "Fanny and Alexander"
+    ],
+    "answer": 1,
+    "page": "87",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-28",
+    "n": 28,
+    "stem": "How did Levy discover a way to find out which Ohio Longitudinal Study participants had died?",
+    "options": [
+     "She called each participant's family",
+     "The study's director had secretly recorded deaths",
+     "She searched local newspaper obituaries",
+     "At a conference, a man handed her a ruler printed with \"NDI,\" the National Death Index"
+    ],
+    "answer": 3,
+    "page": "92",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-29",
+    "n": 29,
+    "stem": "In Levy's experiment, older participants were primed with age stereotypes and then asked whether they would accept an expensive treatment with a 75 percent chance of survival. What would you predict for an older participant primed with negative age stereotypes?",
+    "options": [
+     "They would be more likely to reject the life-prolonging treatment",
+     "They would be more likely to accept the treatment",
+     "Priming would have no effect because the scenario is hypothetical",
+     "They would respond the same as younger participants"
+    ],
+    "answer": 0,
+    "page": "98",
+    "chapter": "ch6",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-30",
+    "n": 30,
+    "stem": "During COVID-19, a hospital notices that older patients with negative age beliefs are more likely to refuse admission. For a debate on allocating care by \"likelihood of survival,\" why does Levy's finding matter?",
+    "options": [
+     "It shows younger patients' age beliefs determine their treatment choices",
+     "Patients' own age beliefs can shape whether they seek treatment, so survival outcomes partly reflect beliefs rather than biology alone",
+     "It proves older patients should never be hospitalized",
+     "It shows hospitalization does not affect survival"
+    ],
+    "answer": 1,
+    "page": "100",
+    "chapter": "ch6",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-31",
+    "n": 31,
+    "stem": "In Levy's longevity equation L = (P, E), where do age beliefs fit?",
+    "options": [
+     "They are part of the person's genes (P) only",
+     "They start in the environment (E) and then become absorbed by the person (P)",
+     "They belong only to the environment (E) and never affect the person",
+     "They are a separate variable unrelated to P or E"
+    ],
+    "answer": 1,
+    "page": "107",
+    "chapter": "ch6",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-32",
+    "n": 32,
+    "stem": "When the mayor of Kane Tanaka's town brought her a cake shaped like her favorite board game, what game was it?",
+    "options": [
+     "Mahjong",
+     "Go",
+     "Chess",
+     "Othello"
+    ],
+    "answer": 3,
+    "page": "105",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-33",
+    "n": 33,
+    "stem": "Chilean ear surgeon Marcos Goycoolea found that older residents of which island heard better than those who had lived on the South American mainland?",
+    "options": [
+     "Easter Island",
+     "Tahiti",
+     "Gal-pagos",
+     "Okinawa"
+    ],
+    "answer": 0,
+    "page": "112",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-34",
+    "n": 34,
+    "stem": "In a study, participants primed with age stereotypes read about a 73-year-old woman who imagines that a crumpled napkin looks like an animal. How would a participant primed with negative age stereotypes most likely interpret her daydream?",
+    "options": [
+     "As a sign of creativity",
+     "As a sign of wisdom",
+     "As a sign of dementia",
+     "As a normal childhood memory"
+    ],
+    "answer": 2,
+    "page": "112",
+    "chapter": "ch7",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-35",
+    "n": 35,
+    "stem": "A 65-year-old asks how to protect her hearing as she ages. Based on Nina Kraus's research described by Levy, what activity would be a reasonable recommendation?",
+    "options": [
+     "Start making music, since beginning to play or sing even in later life benefits the brain and hearing",
+     "Avoid all music to rest the ears",
+     "Only listen to music through headphones at high volume",
+     "Wait until hearing loss begins before taking action"
+    ],
+    "answer": 0,
+    "page": "115",
+    "chapter": "ch7",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-36",
+    "n": 36,
+    "stem": "Choreographer Liz Lerman won a MacArthur \"genius award\" and founded which dance company known for its intergenerational dancers?",
+    "options": [
+     "Dance Exchange",
+     "Urban Bush Women",
+     "Silver Sirens",
+     "Alvin Ailey American Dance Theater"
+    ],
+    "answer": 0,
+    "page": "126",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-37",
+    "n": 37,
+    "stem": "What contrast does Levy draw about the response to Hurricane Katrina?",
+    "options": [
+     "Older people were evacuated first, before children",
+     "Nursing homes were the first buildings to be rebuilt",
+     "Hospitals refused to admit anyone under sixty-five",
+     "Animal activists evacuated dogs and cats within 24 hours, while many older people were left in their homes for up to seven days"
+    ],
+    "answer": 3,
+    "page": "132",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-38",
+    "n": 38,
+    "stem": "According to Levy, what did Disney add to its Rapunzel remake, Tangled, that was not in the original Brothers Grimm story?",
+    "options": [
+     "An antiaging theme, with the old witch seeking Rapunzel's hair for eternal youth",
+     "A grandmother who rescues Rapunzel",
+     "A song celebrating old age",
+     "A scene in which an older man becomes king"
+    ],
+    "answer": 0,
+    "page": "137",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-39",
+    "n": 39,
+    "stem": "At age seventy-three, after being forced to retire, botanist Ben Duggar isolated which compound that became the world's most widely prescribed antibiotic?",
+    "options": [
+     "Tetracycline",
+     "Penicillin",
+     "Streptomycin",
+     "Amoxicillin"
+    ],
+    "answer": 0,
+    "page": "148",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-40",
+    "n": 40,
+    "stem": "A car manufacturer is debating whether to retire its older assembly-line workers. Based on the Harvard Business School study of a BMW plant, what would you advise?",
+    "options": [
+     "Separate workers into age-segregated teams",
+     "Replace older workers with younger ones to increase speed",
+     "Retire everyone over fifty to reduce accidents",
+     "Keep age-integrated teams, which increased productivity, reduced absenteeism, and produced fewer defects"
+    ],
+    "answer": 3,
+    "page": "148",
+    "chapter": "ch8",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-41",
+    "n": 41,
+    "stem": "A medical school simulates \"the aging experience\" by giving students blurring glasses, leg weights, and hearing-blocking headsets. What concern does Levy raise about this training?",
+    "options": [
+     "It makes students too sympathetic to older patients",
+     "It is too expensive for most medical schools",
+     "It does not include enough time in nursing homes",
+     "It may reinforce negative stereotypes by leading students to assume older patients will be frail and deficient"
+    ],
+    "answer": 3,
+    "page": "151",
+    "chapter": "ch8",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-42",
+    "n": 42,
+    "stem": "Stuck behind a slow car, Sam mutters about \"old drivers,\" then reminds himself that older drivers have fewer accidents and are less likely to text while driving. Which step of Levy's ABC method is he practicing?",
+    "options": [
+     "None; this is an example of age blindness",
+     "A: Increasing Awareness",
+     "C: Challenging negative age beliefs",
+     "B: Placing Blame where it is due"
+    ],
+    "answer": 1,
+    "page": "155",
+    "chapter": "ch9",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-43",
+    "n": 43,
+    "stem": "A caregiver greets an 88-year-old resident in a loud, singsong voice: \"How are we today, sweetie?\" According to Levy, what should the caregiver do instead?",
+    "options": [
+     "Address the resident through a family member instead",
+     "Use simpler, one-syllable words",
+     "Speak in normal, everyday language, as she would to a friend her own age",
+     "Speak even more slowly and loudly to be sure she is understood"
+    ],
+    "answer": 2,
+    "page": "156",
+    "chapter": "ch9",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-44",
+    "n": 44,
+    "stem": "A student wants to build positive age beliefs and plans to model her life on just one role model: an astronaut who flew in space at seventy-seven. What does Levy advise?",
+    "options": [
+     "Avoid role models altogether and rely on willpower",
+     "Build a diverse portfolio of positive models, because a single exceptional figure is easily dismissed as an exception",
+     "Focus only on that one role model to stay motivated",
+     "Choose role models who are younger than she is"
+    ],
+    "answer": 1,
+    "page": "157",
+    "chapter": "ch9",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-45",
+    "n": 45,
+    "stem": "At a reunion, someone tells a 70-year-old classmate, \"You haven't aged a day!\" How would Levy classify this well-intentioned comment?",
+    "options": [
+     "A positive age stereotype that should be encouraged",
+     "Elderspeak",
+     "Age blindness, which can be demeaning because it suggests age identity should be minimized",
+     "Benevolent priming"
+    ],
+    "answer": 2,
+    "page": "158",
+    "chapter": "ch9",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-46",
+    "n": 46,
+    "stem": "A senior center wants a simple, evidence-based activity to reduce residents' negative age beliefs. Based on Levy's research, which activity fits best?",
+    "options": [
+     "Reading articles about age-related decline",
+     "Journaling once a week for four weeks about an imagined day in the life of a healthy, active older person",
+     "Avoiding any discussion of aging",
+     "Watching popular TV comedies about aging"
+    ],
+    "answer": 1,
+    "page": "157",
+    "chapter": "ch9",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-47",
+    "n": 47,
+    "stem": "In their first year, how did the Gray Panthers protest a department store's mandatory retirement policy?",
+    "options": [
+     "They organized a nationwide boycott of the store",
+     "They filed a class-action lawsuit",
+     "They picketed in Santa suits with signs claiming Santa was too old to work there",
+     "They held a sit-in at the store's cash registers"
+    ],
+    "answer": 2,
+    "page": "174",
+    "chapter": "ch10",
+    "type": "Recall"
+   },
+   {
+    "id": "set1b-48",
+    "n": 48,
+    "stem": "A community group gathers older adults to share stories of mistreatment at work and in doctors' offices, and introduces them to the term \"ageism\" so they recognize it as a societal problem. Which stage of Levy's age liberation movement is this?",
+    "options": [
+     "Collective identification",
+     "Protest",
+     "Cultural redefinition",
+     "Mobilization"
+    ],
+    "answer": 0,
+    "page": "177",
+    "chapter": "ch10",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-49",
+    "n": 49,
+    "stem": "An advocacy group meets with advertisers about the health harms of ageist ads and, when talks fail, organizes a boycott of the companies. Which stage of the age liberation movement does this represent?",
+    "options": [
+     "Collective identification",
+     "Mobilization",
+     "Protest",
+     "Cognitive liberation"
+    ],
+    "answer": 2,
+    "page": "181",
+    "chapter": "ch10",
+    "type": "Application"
+   },
+   {
+    "id": "set1b-50",
+    "n": 50,
+    "stem": "A group of women holds \"Wrinkle Salons\" to reclaim wrinkles as signs of hard-won experience rather than something to hide. Levy compares this cultural redefinition to which earlier movement strategy?",
+    "options": [
+     "The civil rights movement's \"Black is beautiful\" chant",
+     "The anti-smoking public information campaign",
+     "The Stop Hate for Profit Facebook boycott",
+     "The Highlander Folk School workshops"
+    ],
+    "answer": 0,
+    "page": "186",
+    "chapter": "ch10",
+    "type": "Application"
+   }
+  ]
+ },
+ "set2": {
+  "id": "set2",
+  "title": "Set 2",
+  "book": "bognar",
+  "questions": [
+   {
+    "id": "set2-1",
+    "n": 1,
+    "stem": "In the authors' island vaccination thought experiment ($800 budget; $1 per coastal child, $4 per mountain child), how many children are vaccinated under Program A, which vaccinates every child on the coastal plains but none in the mountains?",
+    "options": [
+     "500",
+     "800",
+     "1,000",
+     "200"
+    ],
+    "answer": 1,
+    "page": "7",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-2",
+    "n": 2,
+    "stem": "According to the authors, what is the clear lesson of the vaccination programs thought experiment?",
+    "options": [
+     "Benefit maximization should always override fairness",
+     "Fairness should always override benefit maximization",
+     "Most people reach consensus on the right program",
+     "Fairness and benefit maximization can, and often do, conflict"
+    ],
+    "answer": 3,
+    "page": "9",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-3",
+    "n": 3,
+    "stem": "How do the authors define health care rationing?",
+    "options": [
+     "The selection of individual patients for life-saving treatment",
+     "The controlled allocation of scarce health care resources",
+     "The denial of care to patients who cannot pay",
+     "The government's refusal to fund new medicines"
+    ],
+    "answer": 1,
+    "page": "12",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-4",
+    "n": 4,
+    "stem": "Because there are many more patients than available organs, patients are placed on waiting lists for transplantation. How do the authors characterize these waiting lists?",
+    "options": [
+     "As a form of rationing",
+     "As a purely medical question with no ethical dimension",
+     "As an example of disability discrimination",
+     "As a market mechanism"
+    ],
+    "answer": 0,
+    "page": "12",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-5",
+    "n": 5,
+    "stem": "According to the latest data cited by the authors (2019), what percentage of its GDP does the United States spend on health care?",
+    "options": [
+     "25.0 percent",
+     "8.5 percent",
+     "12.4 percent",
+     "17.7 percent"
+    ],
+    "answer": 3,
+    "page": "15",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-6",
+    "n": 6,
+    "stem": "Which of the following is a demographic reason for the scarcity of health care resources described by the authors?",
+    "options": [
+     "Aging societies spend more on health",
+     "Patients do not directly bear the costs of their care",
+     "Overuse of antibiotics creates resistant bacteria",
+     "Medicine can now cure many previously fatal diseases"
+    ],
+    "answer": 0,
+    "page": "14",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-7",
+    "n": 7,
+    "stem": "In 1962, Seattle's Swedish Hospital set up a committee of laypeople to decide which patients would receive a scarce treatment. What was this committee called, and what treatment did it allocate?",
+    "options": [
+     "The Life Committee; organ transplants",
+     "The Seattle Panel; ventilators",
+     "The God Committee; kidney dialysis",
+     "The Ethics Board; chemotherapy"
+    ],
+    "answer": 2,
+    "page": "25",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-8",
+    "n": 8,
+    "stem": "The EQ-5D, a widely used questionnaire for describing health states, asks patients to describe how well they function within how many \"dimensions\" of health?",
+    "options": [
+     "Seven",
+     "Five",
+     "Ten",
+     "Three"
+    ],
+    "answer": 1,
+    "page": "32",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-9",
+    "n": 9,
+    "stem": "Using the time trade-off method, if respondents consider 7.6 years in full health just as good as ten years in a particular health state, what is the value of that health state?",
+    "options": [
+     "0.24",
+     "1.32",
+     "0.76",
+     "7.6"
+    ],
+    "answer": 2,
+    "page": "36",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-10",
+    "n": 10,
+    "stem": "Which method for valuing health states asks respondents to choose between living in a health state for a certain amount of time and a risky option with chances of full health or death?",
+    "options": [
+     "The pairwise comparison",
+     "The rating scale",
+     "The standard gamble",
+     "The time trade-off"
+    ],
+    "answer": 2,
+    "page": "35",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-11",
+    "n": 11,
+    "stem": "The disability-adjusted life year (DALY) was developed by which international project to measure the harm from mortality and morbidity in populations?",
+    "options": [
+     "The 3 by 5 program",
+     "The Oregon Health Services Commission",
+     "The Global Burden of Disease project",
+     "The National Institute for Health and Care Excellence"
+    ],
+    "answer": 2,
+    "page": "42",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-12",
+    "n": 12,
+    "stem": "Recent updates of the Global Burden of Disease studies include almost how many different diseases and injuries?",
+    "options": [
+     "1,000",
+     "4,000",
+     "400",
+     "40"
+    ],
+    "answer": 2,
+    "page": "43",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-13",
+    "n": 13,
+    "stem": "What was the most important finding of the web-based surveys, with almost 30,000 respondents, used to evaluate the burden of disabilities for DALYs?",
+    "options": [
+     "Responses differed greatly between countries",
+     "Wealthy respondents rated disabilities as far worse than poor respondents",
+     "A high degree of agreement in responses across very different social, economic, and cultural backgrounds",
+     "Respondents could not compare health states reliably"
+    ],
+    "answer": 2,
+    "page": "46",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-14",
+    "n": 14,
+    "stem": "Program 3 can save 110 people at a cost of $12,100,000. What is its cost-effectiveness ratio?",
+    "options": [
+     "$110,000 per life saved",
+     "$121,000 per life saved",
+     "$1,100,000 per life saved",
+     "$12,100 per life saved"
+    ],
+    "answer": 0,
+    "page": "51",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-15",
+    "n": 15,
+    "stem": "After policymakers rank interventions by cost-effectiveness into a priority list, what does cost- effectiveness analysis itself NOT tell them?",
+    "options": [
+     "Where the cut-off point (threshold) should be",
+     "The cost of each unit of health benefit",
+     "How to rank interventions in a priority list",
+     "Which interventions are more cost-effective than others"
+    ],
+    "answer": 0,
+    "page": "52",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-16",
+    "n": 16,
+    "stem": "What is the incremental cost-effectiveness ratio (ICER)?",
+    "options": [
+     "The ratio of an intervention's additional costs to its additional benefits",
+     "The cost of one QALY in full health",
+     "The rate at which drug prices increase each year",
+     "The ratio of total benefits to total costs of all programs"
+    ],
+    "answer": 0,
+    "page": "53",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-17",
+    "n": 17,
+    "stem": "In the late 1980s, the state of Oregon attempted to extend coverage under which program to all potentially eligible residents by limiting the number of services covered?",
+    "options": [
+     "The Veterans Health Administration",
+     "Medicare",
+     "Medicaid",
+     "The Affordable Care Act"
+    ],
+    "answer": 2,
+    "page": "57",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-18",
+    "n": 18,
+    "stem": "In 1991, the US federal government rejected the Oregon plan on what basis?",
+    "options": [
+     "It cost more than the state's budget allowed",
+     "It violated the Americans with Disabilities Act by discriminating against people with disabilities",
+     "It relied on a lottery to select patients",
+     "It excluded children from coverage"
+    ],
+    "answer": 1,
+    "page": "58",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-19",
+    "n": 19,
+    "stem": "In England and Wales, what term describes inequalities in coverage between different areas caused by decentralized decisions of regional trusts?",
+    "options": [
+     "The postcode lottery",
+     "The rule of rescue",
+     "The survival lottery",
+     "The social gradient"
+    ],
+    "answer": 0,
+    "page": "61",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-20",
+    "n": 20,
+    "stem": "In what year was the National Institute for Clinical Excellence (now the National Institute for Health and Care Excellence, NICE) set up to reduce the effects of the postcode lottery?",
+    "options": [
+     "2010",
+     "1948",
+     "1985",
+     "1999"
+    ],
+    "answer": 3,
+    "page": "61",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-21",
+    "n": 21,
+    "stem": "Equity weighting of QALYs can be interpreted as an application of which moral view, holding that benefiting a person matters more the worse off that person is?",
+    "options": [
+     "Luck egalitarianism",
+     "Libertarianism",
+     "Prioritarianism",
+     "Utilitarianism"
+    ],
+    "answer": 2,
+    "page": "69",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-22",
+    "n": 22,
+    "stem": "According to the authors, 1 QALY can represent one year of life in full health, or how many years in a health state whose quality-adjustment factor is 0.5?",
+    "options": [
+     "Two years",
+     "Five years",
+     "Half a year",
+     "Ten years"
+    ],
+    "answer": 0,
+    "page": "76",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-23",
+    "n": 23,
+    "stem": "The \"effectiveness\" part of the cost-effectiveness ratio combines which two components?",
+    "options": [
+     "Patient age and patient income",
+     "Health-related quality of life and the duration of the intervention's effect",
+     "The price of the drug and the number of patients",
+     "Hospital capacity and waiting time"
+    ],
+    "answer": 1,
+    "page": "76",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-24",
+    "n": 24,
+    "stem": "The authors note that the Americans with Disabilities Act defines disability broadly. Which of the following would fall within this broad characterization?",
+    "options": [
+     "Only conditions present from birth",
+     "Only conditions that are curable",
+     "Only blindness and paraplegia",
+     "Diabetes, asthma, or allergies"
+    ],
+    "answer": 3,
+    "page": "77",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-25",
+    "n": 25,
+    "stem": "What does the \"disability discrimination objection\" to cost-effectiveness analysis claim?",
+    "options": [
+     "Disabilities cannot be measured at all",
+     "People with disabilities receive too large a share of health care resources",
+     "Cost-effectiveness analysis ignores the cost of interventions",
+     "Patients with a limited capacity to benefit from an intervention, such as people with disabilities, will be unfairly disadvantaged"
+    ],
+    "answer": 3,
+    "page": "77",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-26",
+    "n": 26,
+    "stem": "On the extreme version of the social model, how are disabilities understood?",
+    "options": [
+     "As purely medical conditions requiring cure",
+     "As conditions that should always receive top priority",
+     "As mere differences, with lower quality of life due to the social environment rather than health",
+     "As the most severe form of illness"
+    ],
+    "answer": 2,
+    "page": "80",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-27",
+    "n": 27,
+    "stem": "Which argument holds that everyone should be given a chance to have a fair go at a long, complete life, so that priority should go to the young when resources are scarce?",
+    "options": [
+     "The prevention paradox",
+     "The fair innings argument",
+     "The rule of rescue",
+     "The aggregation thesis"
+    ],
+    "answer": 1,
+    "page": "94",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-28",
+    "n": 28,
+    "stem": "Defenders of the fair innings argument typically argue that giving priority to the young is a matter of what?",
+    "options": [
+     "Fairness, rather than benefit maximization",
+     "Individual responsibility for health",
+     "Benefit maximization, rather than fairness",
+     "Cost savings for the health care system"
+    ],
+    "answer": 0,
+    "page": "95",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-29",
+    "n": 29,
+    "stem": "During the COVID-19 pandemic in spring 2020, the Italian Society of Anesthesia, Analgesia, Resuscitation and Intensive Care (SIAARTI) controversially argued that it may be necessary to do what?",
+    "options": [
+     "Use a lottery to allocate ventilators",
+     "Give priority to health care workers' families",
+     "Set an age limit for ICU admission",
+     "Admit patients strictly on a first-come, first-served basis"
+    ],
+    "answer": 2,
+    "page": "100",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-30",
+    "n": 30,
+    "stem": "The Critical Care Society of Southern Africa recommended using age as a \"tie-breaker\" by sorting patients into life-cycle groups. Which group received priority?",
+    "options": [
+     "Ages 41 to 60",
+     "Ages 12 to 40",
+     "Ages 61 to 75",
+     "Over 75"
+    ],
+    "answer": 1,
+    "page": "102",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-31",
+    "n": 31,
+    "stem": "How did the Critical Care Society of Southern Africa justify using life-cycle considerations?",
+    "options": [
+     "Younger patients have more dependents",
+     "People should have equal opportunity to pass through all stages of life",
+     "Younger patients are more cost-effective to treat",
+     "Older patients are responsible for their own health"
+    ],
+    "answer": 1,
+    "page": "103",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-32",
+    "n": 32,
+    "stem": "The Australian and New Zealand Intensive Care Society advised that where patients are similarly ranked, which patients should be prioritized?",
+    "options": [
+     "Younger patients who have lived through fewer life stages",
+     "Older patients with more life experience",
+     "Patients who arrived at the hospital first",
+     "Patients with private health insurance"
+    ],
+    "answer": 0,
+    "page": "103",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-33",
+    "n": 33,
+    "stem": "In the Oregon Medicaid reform, a list of 709 treatments was drawn up. How many of the top treatments were selected to be provided to all eligible residents?",
+    "options": [
+     "709",
+     "354",
+     "100",
+     "587"
+    ],
+    "answer": 3,
+    "page": "112",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-34",
+    "n": 34,
+    "stem": "Which ranking on Oregon's priority list received a lot of attention for seeming counterintuitive?",
+    "options": [
+     "Organ transplants ranked higher than prenatal care",
+     "Dental caps for pulp exposure ranked higher than surgical treatment for appendicitis",
+     "Cosmetic surgery ranked higher than heart surgery",
+     "Cancer drugs ranked higher than vaccinations"
+    ],
+    "answer": 1,
+    "page": "112",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-35",
+    "n": 35,
+    "stem": "The \"aggregation thesis\" implies which of the following?",
+    "options": [
+     "Every patient should have an equal chance through a lottery",
+     "Only the worst-off patient should receive treatment",
+     "Benefits to individuals can never be added together",
+     "Very small benefits to a great number of people can outweigh far more significant benefits to a few people"
+    ],
+    "answer": 3,
+    "page": "114",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-36",
+    "n": 36,
+    "stem": "In the imaginary \"survival lottery\" used as an objection to the aggregation thesis, what happens?",
+    "options": [
+     "A randomly selected healthy person's organs are transplanted to save five patients who would otherwise die",
+     "Hospitals randomly choose which region receives funding",
+     "Patients draw lots to decide who receives a scarce vaccine",
+     "The youngest patient is always chosen to survive"
+    ],
+    "answer": 0,
+    "page": "114",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-37",
+    "n": 37,
+    "stem": "When it might be better to target many low-risk individuals, each with small expected benefits, rather than a few high-risk individuals who would greatly benefit, this is known as what?",
+    "options": [
+     "The prevention paradox",
+     "The fair innings argument",
+     "The postcode lottery",
+     "The disability paradox"
+    ],
+    "answer": 0,
+    "page": "125",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-38",
+    "n": 38,
+    "stem": "According to the chapter's further readings, which two philosophers started the philosophical debate on aggregation by rejecting the aggregation thesis?",
+    "options": [
+     "Parfit and Harris",
+     "Rawls and Nozick",
+     "Kamm and Scanlon",
+     "Anscombe and Taurek"
+    ],
+    "answer": 3,
+    "page": "132",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-39",
+    "n": 39,
+    "stem": "Which philosophical position captures the intuition that a heart disease patient who chose to smoke should have lower priority than one who did not?",
+    "options": [
+     "Prioritarianism",
+     "Luck egalitarianism",
+     "Utilitarianism",
+     "Sufficientarianism"
+    ],
+    "answer": 1,
+    "page": "134",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-40",
+    "n": 40,
+    "stem": "A patient who knowingly chose to smoke and then developed heart disease is described as suffering from what?",
+    "options": [
+     "Good option luck",
+     "The social gradient",
+     "Bad option luck",
+     "Bad brute luck"
+    ],
+    "answer": 2,
+    "page": "135",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-41",
+    "n": 41,
+    "stem": "According to luck egalitarianism, which inequalities are unjust and should be compensated as a matter of justice?",
+    "options": [
+     "All inequalities, regardless of cause",
+     "Inequalities that reflect the bad effects of brute luck",
+     "No inequalities in health",
+     "Inequalities that reflect the bad effects of option luck"
+    ],
+    "answer": 1,
+    "page": "135",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-42",
+    "n": 42,
+    "stem": "The Whitehall studies, which demonstrated the relationship between socioeconomic status and health, surveyed which population?",
+    "options": [
+     "Canadian nurses",
+     "American factory workers",
+     "British civil servants",
+     "Japanese farmers"
+    ],
+    "answer": 2,
+    "page": "147",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-43",
+    "n": 43,
+    "stem": "What is the \"equal access view\" regarding the social gradient in health?",
+    "options": [
+     "Wealthier people should pay more for equal access",
+     "As long as equal access to health care is secured, there is no further ethical concern about the health gradient",
+     "Access to health care should depend on individual responsibility",
+     "Everyone should receive exactly the same health outcomes"
+    ],
+    "answer": 1,
+    "page": "148",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-44",
+    "n": 44,
+    "stem": "The US Rare Diseases Act of 2002 defines an orphan disease as one that affects fewer than how many people in the United States?",
+    "options": [
+     "2,000,000",
+     "2,000",
+     "20,000",
+     "200,000"
+    ],
+    "answer": 3,
+    "page": "165",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-45",
+    "n": 45,
+    "stem": "In 2016, Japan's Chuikyo introduced a \"huge seller\" repricing rule and urgently cut the price of which high-cost drug by half?",
+    "options": [
+     "Insulin",
+     "Tetracycline",
+     "Sofosbuvir",
+     "Nivolumab"
+    ],
+    "answer": 3,
+    "page": "170",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-46",
+    "n": 46,
+    "stem": "According to the authors, why are antibiotics not an attractive market for pharmaceutical companies?",
+    "options": [
+     "Global on-patent antibiotic sales are only about US$4.7 billion per year, while a single cancer drug can earn twice that",
+     "Governments set antibiotic prices above market value",
+     "Antibiotics are banned from being patented",
+     "Antibiotics are too expensive for patients to buy"
+    ],
+    "answer": 0,
+    "page": "162",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-47",
+    "n": 47,
+    "stem": "Comparing Japan (where the government sets drug prices) and England (where manufacturers set prices freely but NICE applies a cost-effectiveness threshold), what do the authors conclude?",
+    "options": [
+     "Japan does better because the government controls prices",
+     "Both systems perform equally well",
+     "Neither system has any effect on drug prices",
+     "England does better than Japan, because rationing based on cost-effectiveness helps induce an acceptable range of drug prices"
+    ],
+    "answer": 3,
+    "page": "157",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-48",
+    "n": 48,
+    "stem": "Which of the following is NOT one of the four factors the authors list that can influence drug prices?",
+    "options": [
+     "Market competition",
+     "The number of physicians in a country",
+     "The existence of substitute products",
+     "The regulatory environment"
+    ],
+    "answer": 1,
+    "page": "156",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-49",
+    "n": 49,
+    "stem": "According to the authors, if there were no attempt to control the allocation of health care resources, who would end up rationing care?",
+    "options": [
+     "No one, because scarcity would disappear",
+     "Patients themselves through the free market",
+     "Pharmaceutical companies",
+     "Frontline health care workers, at their own judgment and without general guidelines"
+    ],
+    "answer": 3,
+    "page": "174",
+    "chapter": "conclusion",
+    "type": "Recall"
+   },
+   {
+    "id": "set2-50",
+    "n": 50,
+    "stem": "Why do the authors argue that the principles for allocating health care resources cannot simply be decided by a vote?",
+    "options": [
+     "Moral justification is not a majoritarian procedure",
+     "Voting is too expensive to organize",
+     "Only doctors understand health care",
+     "Citizens do not care about health care"
+    ],
+    "answer": 0,
+    "page": "176",
+    "chapter": "conclusion",
+    "type": "Recall"
+   }
+  ]
+ },
+ "set2b": {
+  "id": "set2b",
+  "title": "Set 2B (Recall + Application)",
+  "book": "bognar",
+  "questions": [
+   {
+    "id": "set2b-1",
+    "n": 1,
+    "stem": "What name do the authors give to the relatively new area of philosophy that addresses questions arising at the population level, such as the allocation of health care resources?",
+    "options": [
+     "Population-level bioethics",
+     "Health economics",
+     "Clinical ethics",
+     "Public health law"
+    ],
+    "answer": 0,
+    "page": "3",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-2",
+    "n": 2,
+    "stem": "According to the authors, what are most real-world examples of health care rationing like?",
+    "options": [
+     "Rare events that occur only during pandemics",
+     "Mundane and uncontroversial, such as setting subsidy levels for pharmaceuticals and co-payments",
+     "Decisions made only in low-income countries",
+     "Dramatic life-and-death choices between individual patients"
+    ],
+    "answer": 1,
+    "page": "3",
+    "chapter": "introduction",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-3",
+    "n": 3,
+    "stem": "In the vaccination thought experiment, a student who chooses Program B (half the coastal children and half the mountain children) most likely does so because of which consideration?",
+    "options": [
+     "Benefit maximization: Program B vaccinates more children",
+     "Cost: Program B is cheaper",
+     "Fairness: it is wrong to exclude children merely because they live in a remote place",
+     "Efficiency: Program B is easier to deliver"
+    ],
+    "answer": 2,
+    "page": "8",
+    "chapter": "ch1",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-4",
+    "n": 4,
+    "stem": "In the authors' experience, students who favored Program A in the first vaccination question overwhelmingly choose which program in the follow-up question?",
+    "options": [
+     "Program E, vaccinating the remaining half of both groups",
+     "Program C, vaccinating all the mountain children against the first disease",
+     "Program D, vaccinating the coastal children against a second disease",
+     "Program F, vaccinating the coastal children against the second disease"
+    ],
+    "answer": 1,
+    "page": "8",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-5",
+    "n": 5,
+    "stem": "The WHO and UNAIDS \"3 by 5\" program aimed to provide antiretroviral therapy to three million people by the end of 2005. When was the target actually met?",
+    "options": [
+     "2007",
+     "2005",
+     "2011",
+     "2020"
+    ],
+    "answer": 0,
+    "page": "10",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-6",
+    "n": 6,
+    "stem": "A state government decides to build a new specialist hospital in City X rather than City Y, and an insurer raises co-payments for MRI scans. According to the authors' definition, these decisions are examples of what?",
+    "options": [
+     "Neither is rationing, because no individual patient is denied care",
+     "Only the insurance decision is rationing",
+     "Only the hospital decision is rationing",
+     "Health care rationing, because both are controlled allocations of scarce health care resources"
+    ],
+    "answer": 3,
+    "page": "12",
+    "chapter": "ch1",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-7",
+    "n": 7,
+    "stem": "According to the authors, almost how many people in the United States (about 9 percent of the population) had no health insurance as of 2019?",
+    "options": [
+     "3 million",
+     "30 million",
+     "60 million",
+     "100 million"
+    ],
+    "answer": 1,
+    "page": "15",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-8",
+    "n": 8,
+    "stem": "What attitude do the authors say most people hold about inequalities in health compared with inequalities in income?",
+    "options": [
+     "People view both as equally acceptable",
+     "People are more tolerant of health inequalities than income inequalities",
+     "People believe health inequalities reflect differences in effort",
+     "People are generally more tolerant of income inequalities than of inequalities in health and access to health care"
+    ],
+    "answer": 3,
+    "page": "15",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-9",
+    "n": 9,
+    "stem": "A benevolent dictator spends enough to meet every medical need and eliminates all inefficiencies. According to the authors, why would rationing still be necessary?",
+    "options": [
+     "Rationing would no longer be necessary in this situation",
+     "Choices must still be made about what to offer first, since time is a scarce resource and better services can create new scarcity",
+     "Patients would demand fewer services",
+     "Doctors would refuse to work without rationing"
+    ],
+    "answer": 1,
+    "page": "16",
+    "chapter": "ch1",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-10",
+    "n": 10,
+    "stem": "In the God Committee transcript, which concern did committee members raise about the candidate who was a housewife from Walla Walla?",
+    "options": [
+     "She was too old to benefit from dialysis",
+     "She could not commute for treatment, and her husband lacked the funds to move the family to Seattle",
+     "She did not have health insurance",
+     "She had previously refused treatment"
+    ],
+    "answer": 1,
+    "page": "25",
+    "chapter": "ch1",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-11",
+    "n": 11,
+    "stem": "Using the time trade-off method, a patient says that 6 years in full health is just as good as 10 years living with chronic back pain. What value does this assign to the back-pain health state?",
+    "options": [
+     "6.0",
+     "0.4",
+     "1.67",
+     "0.6"
+    ],
+    "answer": 3,
+    "page": "36",
+    "chapter": "ch2",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-12",
+    "n": 12,
+    "stem": "In a standard gamble, a respondent is indifferent between living with a condition for certain and a treatment with an 80 percent chance of full health and a 20 percent chance of immediate death. What value does this assign to the condition?",
+    "options": [
+     "1.0",
+     "0.2",
+     "0.5",
+     "0.8"
+    ],
+    "answer": 3,
+    "page": "35",
+    "chapter": "ch2",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-13",
+    "n": 13,
+    "stem": "What criticism of the standard gamble method do the authors mention?",
+    "options": [
+     "It can be time consuming to explain and administer, and participants may find it hard to understand",
+     "It ignores risk entirely",
+     "It can only be used for children",
+     "It does not produce numbers that can be compared"
+    ],
+    "answer": 0,
+    "page": "36",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-14",
+    "n": 14,
+    "stem": "A patient facing a decision about a risky surgery must weigh the chance of a cure against the risk of death. Why do the authors suggest the standard gamble may be more adequate than a simple rating scale for valuing health states?",
+    "options": [
+     "Because real patients sometimes must make treatment gambles and trade-offs between health states, which the standard gamble mirrors",
+     "Because the standard gamble does not require any choices",
+     "Because the rating scale always produces higher values",
+     "Because the standard gamble is faster to administer"
+    ],
+    "answer": 0,
+    "page": "49",
+    "chapter": "ch2",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-15",
+    "n": 15,
+    "stem": "A ministry of health wants to measure how much harm malaria, HIV, and road injuries cause in its population, rather than the benefit of a specific treatment. Which measure was designed for this purpose?",
+    "options": [
+     "DALYs, which represent the gap between actual health and an ideal level of health",
+     "The cost-effectiveness ratio",
+     "QALYs, which measure the benefit of interventions",
+     "The EQ-5D questionnaire alone"
+    ],
+    "answer": 0,
+    "page": "42",
+    "chapter": "ch2",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-16",
+    "n": 16,
+    "stem": "Anemia can be caused by malaria, maternal hemorrhaging, or peptic ulcer disease. How do the authors say the Global Burden of Disease handles these different causes?",
+    "options": [
+     "Only anemia caused by malaria is counted",
+     "Each must receive a completely different disability weight",
+     "They are separate conditions but can share a common disability weight because they lead to the same health outcome",
+     "Anemia is excluded from the Global Burden of Disease"
+    ],
+    "answer": 2,
+    "page": "44",
+    "chapter": "ch2",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-17",
+    "n": 17,
+    "stem": "With the same $10 million budget, Program X saves 100 lives and Program Y saves 50 lives. If the goal is to maximize health benefits, which is true?",
+    "options": [
+     "Program Y has the more favorable ratio because it costs more per life",
+     "Cost-effectiveness cannot compare programs that save lives",
+     "The programs are equally cost-effective",
+     "Program X has the more favorable (lower) cost-effectiveness ratio and should be preferred"
+    ],
+    "answer": 3,
+    "page": "51",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-18",
+    "n": 18,
+    "stem": "A health system implements Program 1 and has $2,100,000 left. Program 3 saves additional people at $110,000 each. About how many additional people can be saved with the remaining money?",
+    "options": [
+     "19",
+     "21",
+     "110",
+     "10"
+    ],
+    "answer": 0,
+    "page": "53",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-19",
+    "n": 19,
+    "stem": "A new cancer drug costs $30,000 more than the current treatment and produces 1.5 more QALYs. What is its incremental cost-effectiveness ratio (ICER)?",
+    "options": [
+     "$30,000 per QALY",
+     "$45,000 per QALY",
+     "$15,000 per QALY",
+     "$20,000 per QALY"
+    ],
+    "answer": 3,
+    "page": "53",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-20",
+    "n": 20,
+    "stem": "A health agency has set a cost-effectiveness threshold of $50,000 per QALY. A new therapy has an ICER of $80,000 per QALY. How would the therapy be classified?",
+    "options": [
+     "Impossible to classify without knowing the patient's age",
+     "Below the cut-off on the priority list: not cost-effective and given lower priority",
+     "Above the cut-off: cost-effective and good value for money",
+     "Automatically covered, because all new therapies are covered"
+    ],
+    "answer": 1,
+    "page": "52",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-21",
+    "n": 21,
+    "stem": "Who made up the Oregon Health Services Commission created to develop the priority list of health services?",
+    "options": [
+     "Five primary care physicians, a public health nurse, a social worker, and four representatives of the public",
+     "Five state legislators and five hospital administrators",
+     "Ten health economists and a medical ethicist",
+     "Representatives of pharmaceutical and insurance companies"
+    ],
+    "answer": 0,
+    "page": "57",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-22",
+    "n": 22,
+    "stem": "Under the English \"postcode lottery,\" some trusts used to spend about how much more on cancer care than others?",
+    "options": [
+     "Exactly twice as much",
+     "Almost three times as much",
+     "Ten times as much",
+     "About 10 percent more"
+    ],
+    "answer": 1,
+    "page": "61",
+    "chapter": "ch3",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-23",
+    "n": 23,
+    "stem": "Two patients would each gain 2 QALYs from treatment, but Patient A is much worse off in health than Patient B. A policymaker applies equity weights that count A's QALYs more heavily. Which moral view does this reflect?",
+    "options": [
+     "Luck egalitarianism",
+     "Prioritarianism",
+     "The aggregation thesis",
+     "Standard (unweighted) cost-effectiveness analysis"
+    ],
+    "answer": 1,
+    "page": "69",
+    "chapter": "ch3",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-24",
+    "n": 24,
+    "stem": "Treatment A gives a patient 5 years at a quality-adjustment factor of 0.8. Treatment B gives 8 years at 0.4. Which produces more QALYs?",
+    "options": [
+     "Treatment B (3.2 QALYs vs. 4.0 QALYs)",
+     "They produce exactly the same number of QALYs",
+     "Treatment A (4.0 QALYs vs. 3.2 QALYs)",
+     "QALYs cannot be calculated from this information"
+    ],
+    "answer": 2,
+    "page": "76",
+    "chapter": "ch4",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-25",
+    "n": 25,
+    "stem": "Two patients need the same life-saving treatment. One uses a wheelchair due to paraplegia, so the QALYs gained from saving that patient's life are calculated as lower. Critics would say this illustrates which objection?",
+    "options": [
+     "The fair innings argument",
+     "The prevention paradox",
+     "The disability discrimination objection",
+     "The equal access view"
+    ],
+    "answer": 2,
+    "page": "77",
+    "chapter": "ch4",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-26",
+    "n": 26,
+    "stem": "In a discussion question, the authors note that some countries cover prenatal genetic tests even though most parents terminate pregnancies when a disorder is detected. Which countries are named?",
+    "options": [
+     "India, Pakistan, and Bangladesh",
+     "The United States, Mexico, and Brazil",
+     "Japan, China, and South Korea",
+     "Belgium, France, the Netherlands, Scandinavian countries, and some provinces of Canada"
+    ],
+    "answer": 3,
+    "page": "92",
+    "chapter": "ch4",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-27",
+    "n": 27,
+    "stem": "Two equal groups need different life-saving treatments with identical benefits; the only difference is that one group is 20 years old and the other is 70. A defender of the fair innings argument would give priority to whom, and why?",
+    "options": [
+     "The 70-year-olds, because they are worse off in health",
+     "The 20-year-olds, because everyone should have a fair chance at a long, complete life",
+     "Neither, because a lottery must decide",
+     "The 70-year-olds, because they have contributed more to society"
+    ],
+    "answer": 1,
+    "page": "94",
+    "chapter": "ch5",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-28",
+    "n": 28,
+    "stem": "Under the Critical Care Society of Southern Africa's guidelines, two ICU candidates are in the same priority group: a 35-year-old and a 68-year-old. Who would receive priority under the tie-breaker?",
+    "options": [
+     "Neither; a lottery must be used",
+     "The 68-year-old, who has more medical need",
+     "The 35-year-old, who is in an earlier life-cycle group",
+     "Whoever arrived at the hospital first"
+    ],
+    "answer": 2,
+    "page": "102",
+    "chapter": "ch5",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-29",
+    "n": 29,
+    "stem": "Under the Southern Africa guidelines, patients in all priority groups had to have a Clinical Frailty Score at or below what number?",
+    "options": [
+     "8",
+     "3",
+     "10",
+     "6"
+    ],
+    "answer": 3,
+    "page": "102",
+    "chapter": "ch5",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-30",
+    "n": 30,
+    "stem": "An ICU guideline says age is used \"only as a tie-breaker.\" Why do the authors call this description somewhat misleading?",
+    "options": [
+     "When beds are limited and many patients have similar prognoses, the tie-breaker can end up deciding many admissions, so age plays a major role",
+     "Because age is always the first criterion considered",
+     "Because tie-breakers are illegal in most countries",
+     "Because age is never actually used in practice"
+    ],
+    "answer": 0,
+    "page": "103",
+    "chapter": "ch5",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-31",
+    "n": 31,
+    "stem": "The 2026-27 debate topic proposes allocating limited resources to \"patients with the greatest likelihood of long-term survival.\" This most directly emphasizes which component of measuring health benefits in cost-effectiveness analysis?",
+    "options": [
+     "Health-related quality of life only",
+     "The duration of the intervention's effect, measured in life years",
+     "The patient's responsibility for their condition",
+     "The cost of the intervention"
+    ],
+    "answer": 1,
+    "page": "76",
+    "chapter": "ch5",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-32",
+    "n": 32,
+    "stem": "A health system could either save one patient's life or relieve mild headaches for one million people. Someone who accepts the aggregation thesis would say what?",
+    "options": [
+     "A lottery must decide between the options",
+     "The benefits cannot be compared at all",
+     "The one life must always be saved, no matter how many headaches",
+     "The small benefits to a very large number of people can outweigh the significant benefit to one person"
+    ],
+    "answer": 3,
+    "page": "114",
+    "chapter": "ch6",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-33",
+    "n": 33,
+    "stem": "A government chooses a population-wide salt-reduction campaign, giving small expected benefits to millions, over intensive treatment of a few high-risk patients. Which concept does this illustrate?",
+    "options": [
+     "The postcode lottery",
+     "The fair innings argument",
+     "Bad option luck",
+     "The prevention paradox"
+    ],
+    "answer": 3,
+    "page": "125",
+    "chapter": "ch6",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-34",
+    "n": 34,
+    "stem": "Besides general preventive policy, which examples do the authors give of where the prevention paradox arises?",
+    "options": [
+     "Fluoridation of the water supply and antenatal screening programs",
+     "Drug pricing and patent law",
+     "ICU admission and ventilator allocation",
+     "Organ transplantation and kidney dialysis"
+    ],
+    "answer": 0,
+    "page": "125",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-35",
+    "n": 35,
+    "stem": "According to the chapter's further readings, which philosopher introduced prioritarianism?",
+    "options": [
+     "Taurek",
+     "Harris",
+     "Parfit",
+     "Nagel"
+    ],
+    "answer": 2,
+    "page": "132",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-36",
+    "n": 36,
+    "stem": "According to the further readings, the \"principle of pairwise comparison\" was put forward by whom?",
+    "options": [
+     "Kamm (1993)",
+     "Harris (1975)",
+     "Nagel (1979)",
+     "Rose (1992)"
+    ],
+    "answer": 2,
+    "page": "132",
+    "chapter": "ch6",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-37",
+    "n": 37,
+    "stem": "Patient A developed heart disease from a rare genetic condition. Patient B developed heart disease after a lifetime of heavy smoking despite knowing the risks. Under luck egalitarianism, how should their situations be classified?",
+    "options": [
+     "A suffered bad brute luck (to be compensated); B suffered bad option luck (not unjust)",
+     "A suffered bad option luck; B suffered bad brute luck",
+     "Both suffered bad option luck and neither should be compensated",
+     "Both suffered bad brute luck and should be treated equally"
+    ],
+    "answer": 0,
+    "page": "135",
+    "chapter": "ch7",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-38",
+    "n": 38,
+    "stem": "A recreational skydiver who knowingly takes risks is injured. A luck egalitarian would most likely argue what about the resulting inequality?",
+    "options": [
+     "It reflects bad option luck and is not unjust, so it need not be compensated as a matter of justice",
+     "It should be decided by a lottery",
+     "It is part of the social gradient in health",
+     "It reflects bad brute luck and must be fully compensated"
+    ],
+    "answer": 0,
+    "page": "135",
+    "chapter": "ch7",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-39",
+    "n": 39,
+    "stem": "The first Whitehall study, which began in 1967, surveyed approximately how many male civil servants?",
+    "options": [
+     "1.8 million",
+     "18,000",
+     "1,800",
+     "180,000"
+    ],
+    "answer": 1,
+    "page": "147",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-40",
+    "n": 40,
+    "stem": "A country guarantees universal, equal access to health care, yet low-income citizens still die years earlier than wealthy citizens. A proponent of the equal access view would say what?",
+    "options": [
+     "The poor are responsible for their own worse health",
+     "Health care access should be rationed by income",
+     "There is no further ethical concern, since equal access to health care has been secured",
+     "The government must equalize incomes immediately"
+    ],
+    "answer": 2,
+    "page": "148",
+    "chapter": "ch7",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-41",
+    "n": 41,
+    "stem": "Besides health care, which factors do the authors list as contributing to people's health in the discussion of the social gradient?",
+    "options": [
+     "Only diet and exercise",
+     "Income, education, sanitation, air quality, and housing",
+     "Only access to doctors and hospitals",
+     "Only genetics and age"
+    ],
+    "answer": 1,
+    "page": "146",
+    "chapter": "ch7",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-42",
+    "n": 42,
+    "stem": "In Japan, which body makes the recommendations that the Ministry of Health, Labour and Welfare uses to set drug prices?",
+    "options": [
+     "NICE",
+     "The World Health Organization",
+     "The Central Social Insurance Medical Council (Chuikyo)",
+     "The Food and Drug Administration"
+    ],
+    "answer": 2,
+    "page": "157",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-43",
+    "n": 43,
+    "stem": "A company releases a new drug that is only slightly more effective than an existing one. According to the authors, which pricing factor limits how high it can set the price?",
+    "options": [
+     "The regulatory environment",
+     "Market competition from future manufacturers",
+     "The existence of substitute products",
+     "The price of related drugs taken together"
+    ],
+    "answer": 2,
+    "page": "156",
+    "chapter": "ch8",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-44",
+    "n": 44,
+    "stem": "A manufacturer knows no competitor can produce a similar drug for many years, so it sets a very high price. Which pricing factor is at work?",
+    "options": [
+     "Market competition (or the lack of it)",
+     "Out-of-pocket payments",
+     "The existence of substitute products",
+     "The price of related drugs"
+    ],
+    "answer": 0,
+    "page": "156",
+    "chapter": "ch8",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-45",
+    "n": 45,
+    "stem": "A rare disease affects about 150,000 people in the United States. Under the US Rare Diseases Act of 2002, how would it be classified?",
+    "options": [
+     "As a common disease, since it affects more than 100,000 people",
+     "It cannot be classified without European Union approval",
+     "As an orphan disease only if it is fatal",
+     "As an orphan disease, since it affects fewer than 200,000 people"
+    ],
+    "answer": 3,
+    "page": "165",
+    "chapter": "ch8",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-46",
+    "n": 46,
+    "stem": "Japan's 2016 \"huge seller\" repricing rule applies a 50 percent price cut to drugs whose annual sales exceed what amount?",
+    "options": [
+     "JPY1.5 trillion (about US$15 billion)",
+     "JPY500 million (about US$5 million)",
+     "JPY15 billion (about US$150 million)",
+     "JPY150 billion (about US$1.5 billion)"
+    ],
+    "answer": 3,
+    "page": "170",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-47",
+    "n": 47,
+    "stem": "According to the authors, where are most generic manufacturers of off-patent antibiotics located?",
+    "options": [
+     "India and China",
+     "Germany and Switzerland",
+     "The United States and Canada",
+     "Japan and South Korea"
+    ],
+    "answer": 0,
+    "page": "162",
+    "chapter": "ch8",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-48",
+    "n": 48,
+    "stem": "A hospital has no guidelines for allocating scarce ICU beds, so each doctor decides at the bedside. Which problems do the authors predict?",
+    "options": [
+     "Perfectly fair outcomes, since doctors know their patients best",
+     "Lower costs with no ethical problems",
+     "Unfairness, lack of transparency, and arbitrary decisions open to mistakes, prejudice, and corruption",
+     "The elimination of scarcity"
+    ],
+    "answer": 2,
+    "page": "174",
+    "chapter": "conclusion",
+    "type": "Application"
+   },
+   {
+    "id": "set2b-49",
+    "n": 49,
+    "stem": "To what do the authors contrast health care to show that it is not an ordinary market good?",
+    "options": [
+     "The market for groceries",
+     "The market for Caribbean holidays",
+     "The stock market",
+     "The market for used cars"
+    ],
+    "answer": 1,
+    "page": "176",
+    "chapter": "conclusion",
+    "type": "Recall"
+   },
+   {
+    "id": "set2b-50",
+    "n": 50,
+    "stem": "A legislature proposes letting politicians decide all rationing priorities directly. Based on the authors' reasoning, why might it be better to delegate these decisions to an agency like NICE?",
+    "options": [
+     "Agencies can eliminate scarcity",
+     "Politicians are not allowed to discuss health care",
+     "Such agencies are more removed from electoral pressures and powerful interest groups",
+     "Agencies do not need ethical principles"
+    ],
+    "answer": 2,
+    "page": "176",
+    "chapter": "conclusion",
+    "type": "Application"
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+/* Per-book accent, switched by the book toggle via data-book on <html>-level wrapper */
+@theme {
+  --color-accent-50: var(--a50);
+  --color-accent-100: var(--a100);
+  --color-accent-200: var(--a200);
+  --color-accent-500: var(--a500);
+  --color-accent-600: var(--a600);
+  --color-accent-700: var(--a700);
+  --color-accent-900: var(--a900);
+}
+
+[data-book='levy'] {
+  --a50: #f5f3ff; --a100: #ede9fe; --a200: #ddd6fe; --a500: #8b5cf6;
+  --a600: #7c3aed; --a700: #6d28d9; --a900: #4c1d95;
+  background:
+    radial-gradient(ellipse 90% 40% at 10% 0%, rgba(139, 92, 246, 0.14), transparent 60%),
+    radial-gradient(ellipse 70% 40% at 95% 0%, rgba(244, 114, 182, 0.12), transparent 60%),
+    #faf9ff;
+  background-attachment: fixed;
+}
+
+[data-book='bognar'] {
+  --a50: #f0fdfa; --a100: #ccfbf1; --a200: #99f6e4; --a500: #14b8a6;
+  --a600: #0d9488; --a700: #0f766e; --a900: #134e4a;
+  background:
+    radial-gradient(ellipse 90% 40% at 10% 0%, rgba(20, 184, 166, 0.15), transparent 60%),
+    radial-gradient(ellipse 70% 40% at 95% 0%, rgba(59, 130, 246, 0.10), transparent 60%),
+    #f7fdfc;
+  background-attachment: fixed;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f8fafc;
+  color: #1f2937;
+  min-height: 100vh;
+}
+
+.flip { perspective: 1200px; }
+.flip-inner { transition: transform 0.5s; transform-style: preserve-3d; position: relative; }
+.flip-inner.flipped { transform: rotateY(180deg); }
+.flip-face { backface-visibility: hidden; position: absolute; inset: 0; }
+.flip-back { transform: rotateY(180deg); }
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.animate-fade-in { animation: fadeIn 0.25s ease-out; }
