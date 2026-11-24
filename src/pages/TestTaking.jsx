@@ -12,8 +12,8 @@ const DURATION = 60 * 60
 function buildTest(setId) {
   const set = testSets.find((s) => s.id === setId)
   if (set) return { book: set.book, title: set.title, questions: set.questions.map((q) => ({ ...q, setId: set.id })) }
-  const m = /^mixed-(levy|bognar)$/.exec(setId || '')
-  if (m) return { book: m[1], title: 'Mixed test', questions: shuffle(questionsForBook(m[1])).slice(0, 50) }
+  const m = /^mixed-(\w+)$/.exec(setId || '')
+  if (m && books[m[1]]) return { book: m[1], title: 'Mixed test', questions: shuffle(questionsForBook(m[1])).slice(0, 50) }
   return null
 }
 

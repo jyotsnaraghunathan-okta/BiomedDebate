@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useBook } from '../context/BookContext'
 import { questionsForChapter } from '../data/questions'
+import { methods } from '../data/methods'
 import { Card, PageHeader } from '../components/ui'
 
 export default function StudyGuide() {
@@ -9,12 +10,20 @@ export default function StudyGuide() {
   const { chapterId } = useParams()
   const chapter = book.chapters.find((c) => c.id === chapterId) || book.chapters[0]
   const idx = book.chapters.indexOf(chapter)
-  const facts = questionsForChapter(book.id, chapter.id).sort((a, b) => parseInt(a.page) - parseInt(b.page))
+  const all = questionsForChapter(book.id, chapter.id)
+  const concepts = all.filter((q) => q.explanation)
+  const facts = all.filter((q) => !q.explanation).sort((a, b) => parseInt(a.page) - parseInt(b.page))
+  const howItWorks = methods[book.id]?.[chapter.id] || []
   const [showFacts, setShowFacts] = useState(true)
 
   return (
     <div>
-      <PageHeader title="Study Guide" subtitle={book.citation} />
+      <PageHeader title="Study Guide" subtitle={book.citation}>
+        {book.url && <a href={book.url} target="_blank" rel="noreferrer" className="text-sm font-semibold text-accent-700">Open source ↗</a>}
+      </PageHeader>
+      {book.note && (
+        <p className="text-sm text-amber-900 bg-amber-50 border border-amber-200 rounded-lg px-4 py-2 mb-5">{book.note}</p>
+      )}
       <div className="grid lg:grid-cols-[260px_1fr] gap-6">
         <aside className="lg:sticky lg:top-28 self-start">
           <Card className="p-2">
@@ -50,7 +59,37 @@ export default function StudyGuide() {
             </div>
           </Card>
 
-          <Card className="p-6">
+          {howItWorks.length > 0 && (
+            <Card className="p-6">
+              <h3 className="text-lg font-bold text-gray-900 mt-0">How it works</h3>
+              <p className="text-sm text-gray-500 mt-0">The methods and reasoning behind the findings.</p>
+              <div className="space-y-4">
+                {howItWorks.map((m) => (
+                  <div key={m.title} className="border-l-4 border-accent-200 pl-4">
+                    <p className="font-semibold text-gray-900 m-0">{m.title}</p>
+                    <p className="text-sm text-gray-700 mt-1 mb-0 leading-relaxed">{m.text}</p>
+                  </div>
+                ))}
+              </div>
+            </Card>
+          )}
+
+          {concepts.length > 0 && (
+            <Card className="p-6">
+              <h3 className="text-lg font-bold text-gray-900 mt-0">Concepts to understand ({concepts.length})</h3>
+              <ul className="divide-y divide-gray-100 p-0 m-0 list-none">
+                {concepts.map((q) => (
+                  <li key={q.id} className="py-3">
+                    <p className="text-sm text-gray-600 m-0">{q.stem}</p>
+                    <p className="text-sm font-semibold text-gray-900 mt-1 mb-1">→ {q.options[q.answer]}</p>
+                    <p className="text-sm text-gray-600 m-0">{q.explanation}</p>
+                  </li>
+                ))}
+              </ul>
+            </Card>
+          )}
+
+          {(facts.length > 0 || !concepts.length) && <Card className="p-6">
             <div className="flex items-center justify-between gap-3">
               <h3 className="text-lg font-bold text-gray-900 m-0">Tested facts ({facts.length})</h3>
               <button
@@ -75,7 +114,7 @@ export default function StudyGuide() {
                 {!facts.length && <li className="py-3 text-sm text-gray-400">No practice questions cover this section yet.</li>}
               </ul>
             )}
-          </Card>
+          </Card>}
 
           <div className="flex justify-between">
             {idx > 0 ? (

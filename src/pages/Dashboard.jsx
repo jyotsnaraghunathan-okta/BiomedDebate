@@ -29,6 +29,7 @@ export default function Dashboard() {
         <h1 className="text-3xl font-bold text-gray-900 mt-1 mb-1">{book.icon} {book.title}</h1>
         <p className="text-gray-500 mt-0">{book.subtitle}</p>
         <p className="text-gray-700 leading-relaxed mb-0">{book.thesis}</p>
+        {book.url && <a href={book.url} target="_blank" rel="noreferrer" className="inline-block mt-3 text-sm font-semibold text-accent-700">Read the article ↗</a>}
       </Card>
 
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
@@ -49,7 +50,7 @@ export default function Dashboard() {
       </Card>
 
       <div>
-        <h2 className="text-lg font-bold text-gray-900">Chapters</h2>
+        <h2 className="text-lg font-bold text-gray-900">{book.kind === 'article' ? 'Sections' : 'Chapters'}</h2>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {book.chapters.map((ch) => {
             const cq = questionsForChapter(book.id, ch.id)

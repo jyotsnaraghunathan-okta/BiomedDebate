@@ -1,31 +1,25 @@
 import { useBook } from '../../context/BookContext'
 import { bookList } from '../../data/books'
 
+// Dropdown of all five official sources: the 2 books and the 3 articles.
 export default function BookToggle({ className = '' }) {
   const { bookId, selectBook } = useBook()
+  const group = (kind) => bookList.filter((b) => b.kind === kind)
   return (
-    <div
-      role="radiogroup"
-      aria-label="Select book"
-      className={`inline-flex rounded-full bg-white/80 border border-accent-200 p-1 shadow-sm ${className}`}
-    >
-      {bookList.map((b) => {
-        const active = b.id === bookId
-        return (
-          <button
-            key={b.id}
-            role="radio"
-            aria-checked={active}
-            onClick={() => selectBook(b.id)}
-            className={`px-3 py-1.5 rounded-full text-sm font-semibold whitespace-nowrap transition-colors cursor-pointer border-none ${
-              active ? 'bg-accent-600 text-white shadow' : 'bg-transparent text-gray-600 hover:text-accent-700'
-            }`}
-          >
-            <span className="mr-1">{b.icon}</span>
-            {b.short}
-          </button>
-        )
-      })}
-    </div>
+    <label className={`flex items-center gap-2 min-w-0 ${className}`}>
+      <span className="sr-only">Select source</span>
+      <select
+        value={bookId}
+        onChange={(e) => selectBook(e.target.value)}
+        className="w-full sm:w-auto max-w-full sm:max-w-sm text-sm font-semibold border border-accent-200 rounded-full px-4 py-2 bg-white text-accent-900 shadow-sm focus:outline-none focus:ring-2 focus:ring-accent-500 cursor-pointer truncate"
+      >
+        <optgroup label="Books">
+          {group('book').map((b) => <option key={b.id} value={b.id}>{b.icon} {b.short}</option>)}
+        </optgroup>
+        <optgroup label="Articles">
+          {group('article').map((b) => <option key={b.id} value={b.id}>{b.icon} {b.short}</option>)}
+        </optgroup>
+      </select>
+    </label>
   )
 }

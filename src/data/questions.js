@@ -1,8 +1,9 @@
 import sets from './questions.json'
+import { understandingSets } from './understanding'
 import { books } from './books'
 
-// Practice sets parsed from the test1/ PDFs (MCQ + answer key).
-export const testSets = Object.values(sets)
+// Practice sets parsed from the test1/ PDFs (MCQ + answer key), plus understanding sets.
+export const testSets = [...Object.values(sets), ...understandingSets]
 
 export function setsForBook(bookId) {
   return testSets.filter((s) => s.book === bookId)
@@ -14,6 +15,10 @@ export function questionsForBook(bookId) {
 
 export function questionsForChapter(bookId, chapterId) {
   return questionsForBook(bookId).filter((q) => q.chapter === chapterId)
+}
+
+export function isUnderstanding(q) {
+  return q.type !== 'Recall'
 }
 
 export function chapterTitle(bookId, chapterId) {

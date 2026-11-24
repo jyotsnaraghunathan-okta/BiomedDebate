@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useBook } from '../context/BookContext'
 import { useProgress } from '../context/ProgressContext'
-import { chapterTitle, questionsForBook, shuffle } from '../data/questions'
+import { chapterTitle, isUnderstanding, questionsForBook, shuffle } from '../data/questions'
 import { Button, Card, ChapterSelect, PageHeader } from '../components/ui'
 import QuestionCard from '../components/QuestionCard'
 
@@ -10,6 +10,7 @@ export default function Practice() {
   const { progress, recordPractice } = useProgress()
   const [chapter, setChapter] = useState('all')
   const [mode, setMode] = useState('all') // all | missed | new
+  const [kind, setKind] = useState('all') // all | understanding | recall
   const [seed, setSeed] = useState(0)
   const [i, setI] = useState(0)
   const [picked, setPicked] = useState()
@@ -19,8 +20,9 @@ export default function Practice() {
     let qs = questionsForBook(book.id).filter((q) => chapter === 'all' || q.chapter === chapter)
     if (mode === 'missed') qs = qs.filter((q) => progress.practice[q.id] === false)
     if (mode === 'new') qs = qs.filter((q) => !(q.id in progress.practice))
+    if (kind !== 'all') qs = qs.filter((q) => (kind === 'understanding') === isUnderstanding(q))
     return shuffle(qs)
-  }, [book.id, chapter, mode, seed]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [book.id, chapter, mode, kind, seed]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const q = queue[i]
 
@@ -44,6 +46,11 @@ export default function Practice() {
       <div className="flex flex-wrap gap-2 mb-4">
         {[['all', 'All questions'], ['new', 'Unseen'], ['missed', 'Previously missed']].map(([k, label]) => (
           <Button key={k} variant={mode === k ? 'primary' : 'secondary'} onClick={() => reset(() => setMode(k))}>{label}</Button>
+        ))}
+      </div>
+      <div className="flex flex-wrap gap-2 mb-4">
+        {[['all', 'All types'], ['understanding', 'Understanding & application'], ['recall', 'Recall']].map(([k, label]) => (
+          <Button key={k} variant={kind === k ? 'primary' : 'ghost'} onClick={() => reset(() => setKind(k))}>{label}</Button>
         ))}
       </div>
 

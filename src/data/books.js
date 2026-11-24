@@ -4,9 +4,12 @@
 export const RESOLUTION =
   'Limited healthcare resources should be allocated to patients with the greatest likelihood of long-term survival.'
 
-export const books = {
+import { articles } from './articles'
+
+const bookData = {
   levy: {
     id: 'levy',
+    kind: 'book',
     short: 'Breaking the Age Code',
     title: 'Breaking the Age Code',
     subtitle: 'How Your Beliefs About Aging Determine How Long and Well You Live',
@@ -216,6 +219,7 @@ export const books = {
 
   bognar: {
     id: 'bognar',
+    kind: 'book',
     short: 'Ethics of Health Care Rationing',
     title: 'The Ethics of Health Care Rationing',
     subtitle: 'An Introduction (2nd ed.)',
@@ -415,7 +419,9 @@ export const books = {
   },
 }
 
-export const bookList = [books.levy, books.bognar]
+// All five official sources. Named "books" for historical reasons; articles behave the same way.
+export const books = { ...bookData, ...articles }
+export const bookList = Object.values(books)
 
 export const DEBATE_FORMAT = [
   { side: 'aff', label: 'First Affirmative', seconds: 120, task: 'Present the affirmative case.' },

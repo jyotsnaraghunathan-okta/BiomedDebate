@@ -31,6 +31,33 @@
   background-attachment: fixed;
 }
 
+[data-book='emanuel'] {
+  --a50: #eff6ff; --a100: #dbeafe; --a200: #bfdbfe; --a500: #3b82f6;
+  --a600: #2563eb; --a700: #1d4ed8; --a900: #1e3a8a;
+  background:
+    radial-gradient(ellipse 90% 40% at 10% 0%, rgba(59, 130, 246, 0.14), transparent 60%),
+    #f8faff;
+  background-attachment: fixed;
+}
+
+[data-book='residency'] {
+  --a50: #fffbeb; --a100: #fef3c7; --a200: #fde68a; --a500: #f59e0b;
+  --a600: #d97706; --a700: #b45309; --a900: #78350f;
+  background:
+    radial-gradient(ellipse 90% 40% at 10% 0%, rgba(245, 158, 11, 0.14), transparent 60%),
+    #fffdf7;
+  background-attachment: fixed;
+}
+
+[data-book='gesda'] {
+  --a50: #fdf2f8; --a100: #fce7f3; --a200: #fbcfe8; --a500: #ec4899;
+  --a600: #db2777; --a700: #be185d; --a900: #831843;
+  background:
+    radial-gradient(ellipse 90% 40% at 10% 0%, rgba(236, 72, 153, 0.12), transparent 60%),
+    #fffafc;
+  background-attachment: fixed;
+}
+
 body {
   margin: 0;
   font-family: 'Inter', system-ui, -apple-system, sans-serif;

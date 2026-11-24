@@ -1,17 +1,24 @@
 import { Link } from 'react-router-dom'
 import { useBook } from '../context/BookContext'
 import { useProgress } from '../context/ProgressContext'
-import { setsForBook } from '../data/questions'
+import { questionsForBook, setsForBook } from '../data/questions'
 import { Card, PageHeader } from '../components/ui'
 
 export default function Tests() {
   const { book } = useBook()
   const { progress } = useProgress()
   const sets = setsForBook(book.id)
+  const total = questionsForBook(book.id).length
   const options = [
-    ...sets.map((s) => ({ id: s.id, title: s.title, desc: `${s.questions.length} questions in book order`, count: s.questions.length })),
-    { id: `mixed-${book.id}`, title: 'Mixed test', desc: '50 random questions drawn from every set for this book', count: 50 },
+    ...sets.map((s) => ({
+      id: s.id,
+      title: s.title,
+      desc: `${s.questions.length} questions${s.id.endsWith('-u') ? ' on methods, reasoning and scenarios, with explanations' : ' in source order'}`,
+    })),
   ]
+  if (sets.length > 1) {
+    options.push({ id: `mixed-${book.id}`, title: 'Mixed test', desc: `${Math.min(50, total)} random questions drawn from every set for this source` })
+  }
 
   return (
     <div>
