@@ -30,7 +30,7 @@ npm run dev
 ## Content
 
 - `src/data/questions.json` holds the 200 questions from the four practice sets in `test1/` (Set 1/1B Levy, Set 2/2B Bognar & Hirose), with answers, chapters and page numbers. It was parsed from the MCQ and answer-key PDFs.
-- `src/data/understanding.js` holds about 114 "Understanding & Application" questions across all five sources. They test methods, calculations and scenarios, and each has an explanation.
+- `src/data/understanding.js` holds about 134 "Understanding & Application" questions across all five sources, plus 23 recall questions from the full Lancet article (Emanuel & Persad). They test methods, calculations and scenarios, and each has an explanation.
 - `src/data/methods.js` holds the "How it works" notes in the study guide: study designs and methods such as the standard gamble and ICER.
 - `src/data/books.js` and `src/data/articles.js` hold the summaries, key points, terms, and affirmative/negative arguments for each source.
 

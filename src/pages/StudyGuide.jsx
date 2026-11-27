@@ -43,7 +43,8 @@ export default function StudyGuide() {
 
         <div className="space-y-5 min-w-0">
           <Card className="p-6">
-            <h2 className="text-xl font-bold text-gray-900 mt-0">{chapter.title}</h2>
+            <h2 className="text-xl font-bold text-gray-900 mt-0 mb-1">{chapter.title}</h2>
+            {chapter.pages && <p className="text-xs text-gray-400 mt-0">pp. {chapter.pages}</p>}
             <p className="text-gray-700 leading-relaxed">{chapter.summary}</p>
 
             <h3 className="text-sm font-semibold uppercase tracking-wider text-accent-700 mt-6">Key points</h3>
